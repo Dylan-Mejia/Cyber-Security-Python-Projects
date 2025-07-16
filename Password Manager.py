@@ -24,13 +24,11 @@ def login():
 
 def main():
     while True:
-        choice = input("Enter 1 to create an account, 2 to login, 3 to display usernames, or 0 to exit: ")
+        choice = input("Enter 1 to create an account, 2 to login, or 0 to exit: ")
         if choice == "1":
             create_account()
         elif choice == "2":
             login()
-        elif choice == "3":
-            print(password_manager)
         elif choice == "0":
             break
         else:

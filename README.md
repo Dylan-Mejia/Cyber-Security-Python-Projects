@@ -1,2 +1,2 @@
-## Cyber-Security-Python-Projects
-This is a repository for my python projects demonstrating cybersecurity concepts
+## Password-Python-Projects
+This is a repository for my python projects demonstrating password security concepts
